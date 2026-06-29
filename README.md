@@ -1,6 +1,7 @@
 # Geometrical-Brawl-Stars
 A learning adventure for myself from which may come out a game like Brawl Stars but instead of brawlers there are interesting geometrical shapes.
 ---
+This project wouldn't be possible without [Raylib](https://github.com/raysan5/raylib) and [Enet](https://github.com/lsalzman/enet)
 # How to get started
 1. Head over to [Releases](https://github.com/AliendsOG/Geometrical-Brawl-Stars/releases) and download the Server and Client exe;
 2. Run the Server exe and then the Client exe;
